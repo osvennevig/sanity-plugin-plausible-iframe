@@ -12,7 +12,7 @@ const background = 'transparent'
 
 const PlausibleIframe = () => {
   return (
-  <DashboardWidget header="Plausible statistics">
+  <DashboardWidget header="Plausible analytics">
     <>
       <iframe plausible-embed
       src={`${root}/${site}&embed=${embed}&theme=${theme}&background=${background}`}

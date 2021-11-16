@@ -20,5 +20,5 @@ The plugin can be configured through `<your-studio-folder>/config/plausible-ifra
 
 ## License
 
-MIT © Ole Svennevig / Mainly
+MIT © Ole Svennevig
 See LICENSE

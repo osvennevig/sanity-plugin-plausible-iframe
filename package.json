@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-plausible-iframe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple plugin to show Plausible analytics as an iframe inside of the Sanity Dashboard.",
   "main": "lib/index.js",
   "scripts": {
@@ -9,13 +9,20 @@
     "watch": "sanipack build --watch",
     "prepublishOnly": "sanipack build && sanipack verify"
   },
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mainlyno/sanity-plugin-plausible-iframe"
+  },
   "keywords": [
     "sanity",
-    "sanity-plugin"
+    "sanity-plugin",
+    "dashboard",
+    "widget",
+    "plausible"
   ],
   "author": "Ole Svennevig",
   "license": "MIT",
+  
   "dependencies": {
     "@sanity/dashboard": "^2.21.10"
   },
