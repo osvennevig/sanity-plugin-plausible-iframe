@@ -14,7 +14,7 @@ The plugin can be configured through `<your-studio-folder>/config/plausible-ifra
 
 ```json
 {
-  "add-config": "here"
+  "site": "<Looks like this: domain.com?auth=xxxx>"
 }
 ```
 
