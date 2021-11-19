@@ -1,6 +1,9 @@
 # sanity-plugin-plausible-iframe
 
-Simple plugin to show Plausible analytics as an iframe inside of the Sanity Dashboard.
+Simple plugin to show Plausible analytics as an iframe inside of the Sanity Dashboard. 
+This is my very first plugin.
+
+![sanity dashboard widget](https://github.com/mainlyno/sanity-plugin-plausible-iframe/blob/[branch]/image.png?raw=true)
 
 ## Installation
 
