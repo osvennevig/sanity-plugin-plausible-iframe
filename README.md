@@ -17,9 +17,14 @@ The plugin can be configured through `<your-studio-folder>/config/plausible-ifra
 
 ```json
 {
-  "site": "<Looks like this: domain.com?auth=xxxx>"
+  "site": "<domain.com?auth=xxxx>"
 }
 ```
+
+## Configuration Plausible
+
+1. Create a new Shared Link without password-protection.
+2. Copy the end of the link to <your-studio-folder>/config/plausible-iframe.json
 
 ## License
 
