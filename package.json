@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-plausible-iframe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple plugin to show Plausible analytics as an iframe inside of the Sanity Dashboard.",
   "main": "lib/index.js",
   "scripts": {
